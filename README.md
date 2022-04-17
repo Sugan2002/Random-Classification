@@ -40,8 +40,7 @@ plt.title("Random Classification Data with 2 classes")
 ```
 
 ## Output:
-![Ex no 1.Random Classifier plot](expO1NN.PNG)
-
+![output](./static/img/expO1NN.PNG)
 
 ## Result:
 Thus, the random classifier was successfully implemented using python programming.
