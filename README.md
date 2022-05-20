@@ -30,7 +30,7 @@ Step 4 − At last, select the most voted prediction result as the final predict
 ```python
 /*
 Program to implement random classification.
-Developed by   :  P>SUGANYA
+Developed by   :  P.SUGANYA
 RegisterNumber :  212220230049
 */
 
